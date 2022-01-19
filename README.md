@@ -1,6 +1,3 @@
-# big-data-developer
-This Repository is used for Big Data 
-
 # Vivek Drakshapally
 ## Current
 - I am currently pursuing my master's in Applied Computer Science at Northwest Missouri State University and hopefully in very few months I am going to graduate.
